@@ -2,7 +2,8 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Yana",
 	"description": "A project that does something awesome",
-	"keywords": [ "freecodecamp", "learning", "Nodejs" ],
+	"keywords": ["freecodecamp","learning","Nodejs"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
